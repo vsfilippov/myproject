@@ -1,0 +1,10 @@
+version: '3.2'
+services:
+  php:
+    build: ./docker/
+    ports:
+      - 8000:80
+    restart: always
+    container_name: phpclub
+    volumes:
+      - ./src/:/var/www/html
