@@ -1,8 +1,6 @@
 <?php
 
-
 namespace App\Task2;
-
 
 use App\Utils\AbstractApiClient;
 
