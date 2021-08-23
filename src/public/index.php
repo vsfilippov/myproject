@@ -1,12 +1,9 @@
 <?php
+//var_dump($_SERVER['QUERY_STRING']);
+//require_once '../vendor/autoload.php';
+require_once dirname(__DIR__) . '/config/init.php';
+require_once LIBS . '/functions.php';
 
-use App\Task1\RandomStringGenerator;
-use App\Task2\CapitalsWeather;
-use App\Task2\MetaWeatherApiClient;
+new \ishop\App();
 
-require_once '../vendor/autoload.php';
-//
-//$task1 = new RandomStringGenerator();
-//var_dump($task1->generate(2, "qghrt"));
-$task2 = new CapitalsWeather();
-$task2->show();
+throw new Exception('Страница не найдена', 500);
