@@ -204,3 +204,85 @@
 ==========
 [2021-08-23 20:09:37] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 9
 ==========
+[2021-08-23 20:27:13] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 9
+==========
+[2021-08-24 18:23:37] Текст ошибки: Контроллер app\controllers\MainController не найдет | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 31
+==========
+[2021-08-24 18:23:45] Текст ошибки: Контроллер app\controllers\MainController не найдет | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 31
+==========
+[2021-08-24 18:23:47] Текст ошибки: Контроллер app\controllers\MainController не найдет | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 31
+==========
+[2021-08-24 18:23:56] Текст ошибки: Контроллер app\controllers\MainController не найдет | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 31
+==========
+[2021-08-24 18:24:53] Текст ошибки: Class 'app\controllers\MainController' not found | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 28
+==========
+[2021-08-24 18:24:54] Текст ошибки: Class 'app\controllers\MainController' not found | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 28
+==========
+[2021-08-24 18:30:08] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 36
+==========
+[2021-08-24 18:30:50] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 36
+==========
+[2021-08-24 18:30:51] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 36
+==========
+[2021-08-24 18:33:03] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:04] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:04] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:05] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:05] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:05] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:05] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:05] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:05] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:30] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:33] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:35] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:37] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:37] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:37] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:33:37] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:34:07] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:34:07] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:34:08] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:37:26] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:37:27] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:38:39] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:38:48] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-24 18:38:51] Текст ошибки: Контроллер app\controllers\MainController не найден | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 34
+==========
+[2021-08-25 13:28:54] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
+==========
+[2021-08-25 13:28:57] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
+==========
+[2021-08-25 13:28:57] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
+==========
+[2021-08-25 13:29:16] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
+==========
+[2021-08-25 13:29:18] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
+==========
+[2021-08-25 13:29:34] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
+==========
+[2021-08-25 13:29:57] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
+==========
