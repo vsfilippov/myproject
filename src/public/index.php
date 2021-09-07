@@ -9,4 +9,4 @@ new \ishop\App();
 
 //throw new Exception('Страница не найдена', 500);
 
-debug(\ishop\Router::getRoutes());
+//debug(\ishop\Router::getRoutes());

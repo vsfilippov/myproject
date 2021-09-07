@@ -286,3 +286,77 @@
 ==========
 [2021-08-25 13:29:57] Текст ошибки: Страница не найдена | файл: /var/www/html/public/index.php | Строка: 10
 ==========
+[2021-09-06 12:38:27] Текст ошибки: Страница не найдена | файл: /var/www/html/vendor/ishop/core/Router.php | Строка: 38
+==========
+[2021-09-06 13:51:26] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-06 13:54:07] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-06 13:54:07] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-06 14:02:01] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-06 16:00:36] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:35] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:37] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:37] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:37] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:37] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:37] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:38] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:54:45] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:56:29] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:57:44] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:57:45] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:57:45] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:57:45] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:57:46] Текст ошибки: Class 'App\controllers\AppModel' not found | файл: /var/www/html/app/controllers/AppController.php | Строка: 12
+==========
+[2021-09-07 13:59:57] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 13:59:58] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 13:59:59] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 13:59:59] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:00:00] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:00:00] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:00:00] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:00:00] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:00:00] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:00:00] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:00:01] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:01:00] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:01:01] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:01:01] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:01:02] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:01:02] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========
+[2021-09-07 14:02:21] Текст ошибки: Class 'ishop\base\Db' not found | файл: /var/www/html/vendor/ishop/core/base/Model.php | Строка: 13
+==========

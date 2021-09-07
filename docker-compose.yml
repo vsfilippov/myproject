@@ -8,3 +8,26 @@ services:
     container_name: phpclub
     volumes:
       - ./src/:/var/www/html
+    networks:
+      - shop
+
+  postgres:
+    image: postgres:10
+    ports:
+      - 5432:5432
+    volumes:
+      - pg_project:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: example
+    command: postgres -c shared_buffers=512MB -c effective_cache_size=1536MB -c work_mem=2621kB -c maintenance_work_mem=128MB
+    shm_size: '1gb'
+    networks:
+      - shop
+volumes:
+  pg_project:
+
+networks:
+  shop:
+    driver: bridge
