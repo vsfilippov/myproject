@@ -11,18 +11,20 @@ services:
     networks:
       - shop
 
-  postgres:
-    image: postgres:10
-    ports:
-      - 5432:5432
+  mysql:
+    image: mysql
+    command: "--default-authentication-plugin=mysql_native_password"
     volumes:
-      - pg_project:/var/lib/postgresql/data
+      - ./docker/mysql-data:/var/lib/mysql
+    ports:
+      - 3336:3306
     environment:
-      POSTGRES_DB: postgres
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: example
-    command: postgres -c shared_buffers=512MB -c effective_cache_size=1536MB -c work_mem=2621kB -c maintenance_work_mem=128MB
-    shm_size: '1gb'
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=project
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=password
+      - PHP_IDE_CONFIG="serverName=Docker"
+    container_name: phpclub_db
     networks:
       - shop
 volumes:

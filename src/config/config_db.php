@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'dsn' => 'postgres:host=localhost;dbname=postgres;charset=utf8',
-    'user' => 'postgres',
-    'pass' => 'example',
+    'dsn' => 'mysql:host=phpclub_db;dbname=project;charset=utf8',
+    'user' => 'root',
+    'pass' => 'root',
 ];

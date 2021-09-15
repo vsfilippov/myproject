@@ -2,6 +2,8 @@
 
 namespace ishop\base;
 
+use ishop\Db;
+
 abstract class Model
 {
 
